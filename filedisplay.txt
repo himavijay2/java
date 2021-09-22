@@ -1,0 +1,6 @@
+cat
+car
+owl
+ball
+bat
+zebra
